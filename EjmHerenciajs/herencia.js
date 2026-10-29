@@ -1,3 +1,4 @@
+//Juan Camilo Almanza -- Juan David Pinzon -- Mariana Allison Quemba 
 // Ejemplo práctico de Herencia en JavaScript
 // Una clase base define comportamiento común y las clases hijas lo reutilizan.
 
